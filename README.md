@@ -2,36 +2,41 @@
 
 A comprehensive football (soccer) simulation built with Mesa 3.x agent-based modeling framework. The simulation models 22 players (11 vs 11) with realistic behaviors and generates detailed event logs in both CSV and XES formats for process mining analysis.
 
-## Features
+## 🏆 Key Features
 
-### Core Simulation
+### ⚽ Core Simulation
 - **11v11 Football Match**: Complete simulation with 22 individual player agents
 - **Realistic Player Behavior**: Position-specific attributes and decision-making
 - **Dynamic Formations**: Home team (4-4-2) vs Away team (4-3-3)
 - **Game Mechanics**: Passing, dribbling, shooting, tackling, possessions
 - **Match Events**: Goals, fouls, tackles, interceptions, clearances
 
-### Event Logging
+### 📊 Event Logging & Process Mining
 - **Comprehensive Event Tracking**: Every action is logged with full context
 - **CSV Export**: Standard format for data analysis
 - **XES Export**: Process mining format compatible with PM4Py, ProM, Disco
 - **Process Mining Ready**: Designed for tactical analysis and pattern discovery
 
-### Mesa 3.x Compatibility
+### 🚀 Mesa 3.x Compatibility
 - Built with the latest Mesa 3.x framework
 - Uses new AgentSet functionality instead of deprecated schedulers
 - Proper agent initialization and management
 - Modern Mesa architecture patterns
 
-## Installation
+## 📦 Installation
 
-1. Clone or download the project files
+1. Clone the repository:
+```bash
+git clone https://github.com/Vicathor/Mesa-Football-Analytics.git
+cd Mesa-Football-Analytics
+```
+
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Quick Start
+## 🎯 Quick Start
 
 ### Run the Demo
 ```python
@@ -71,7 +76,7 @@ while model.running:
 csv_path, xes_path = model.export_logs()
 ```
 
-## Event Schema
+## 📋 Event Schema
 
 Each event contains the following information:
 
@@ -88,7 +93,7 @@ Each event contains the following information:
 | outcome | str | Action result | "Success" / "Failure" |
 | xg_change | float | Expected goals change | 0.05 |
 
-## Actions Logged
+## ⚽ Actions Logged
 
 ### On-ball Actions (Mandatory)
 - **Pass**: Player passes the ball to a teammate
@@ -108,7 +113,7 @@ Each event contains the following information:
 - **FormationChange**: Team changes formation
 - **Goal**: Goal scored
 
-## Field Zones
+## 🗺️ Field Zones
 
 The field is divided into a 4x5 grid:
 - **Rows**: A (defensive) to D (attacking)
@@ -123,7 +128,7 @@ C [C1][C2][C3][C4][C5]
 D [D1][D2][D3][D4][D5]  <- Attacking zone
 ```
 
-## Player Agents
+## 🤖 Player Agents
 
 ### Positions
 - **Goalkeeper (GK)**: Specialized for shot stopping
@@ -148,7 +153,7 @@ Players make decisions based on:
 - Team situation
 - Stamina level
 
-## Process Mining Applications
+## 🔬 Process Mining Applications
 
 The generated event logs can be used for:
 
@@ -177,19 +182,23 @@ The generated event logs can be used for:
 - **Celonis**: Process mining platform
 - **Any CSV-compatible tool**: Excel, R, Python pandas
 
-## File Structure
+## 📁 File Structure
 
 ```
-football_simulation/
+Mesa-Football-Analytics/
 ├── football_simulation.py    # Main simulation model
 ├── player_agent.py          # Player agent implementation
 ├── utils_logger.py          # Event logging utilities
 ├── demo.py                  # Example usage and demos
+├── advanced_analysis.py     # Advanced analytics
+├── final_test.py           # Comprehensive tests
 ├── requirements.txt         # Python dependencies
+├── example_output.csv      # Sample CSV output
+├── example_output.xes      # Sample XES output
 └── README.md               # This file
 ```
 
-## Extending the Simulation
+## 🔧 Extending the Simulation
 
 ### Adding New Actions
 1. Add action to player decision logic in `player_agent.py`
@@ -206,7 +215,7 @@ football_simulation/
 2. Use pandas for data analysis
 3. Create custom visualization
 
-## Example Analysis
+## 📈 Example Analysis
 
 ```python
 import pandas as pd
@@ -228,7 +237,7 @@ team_xg = df.groupby('team')['xg_change'].sum()
 player_activity = df.groupby(['team', 'player_id']).size().sort_values(ascending=False)
 ```
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 - **Variable formations**: Dynamic formation changes during match
 - **Weather conditions**: Impact on player performance
@@ -238,18 +247,20 @@ player_activity = df.groupby(['team', 'player_id']).size().sort_values(ascending
 - **Machine learning**: AI-based tactical decisions
 - **3D visualization**: Mesa-based match visualization
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
-2. Create feature branch
+2. Create feature branch (`git checkout -b feature/amazing-feature`)
 3. Add tests for new features
-4. Submit pull request
+4. Commit your changes (`git commit -m 'Add amazing feature'`)
+5. Push to the branch (`git push origin feature/amazing-feature`)
+6. Open a Pull Request
 
-## License
+## 📄 License
 
 This project is open source. Feel free to use, modify, and distribute.
 
-## Requirements
+## 📋 Requirements
 
 - Python 3.8+
 - Mesa 3.x
@@ -257,9 +268,20 @@ This project is open source. Feel free to use, modify, and distribute.
 - Pandas 2.0+
 - NumPy 1.24+
 
-## Support
+## 📞 Support
 
 For questions or issues:
-1. Check the demo.py file for usage examples
+1. Check the `demo.py` file for usage examples
 2. Review the event logs for data structure
-3. Consult Mesa 3.x documentation for framework details
+3. Open an issue on GitHub
+4. Consult Mesa 3.x documentation for framework details
+
+## 🏆 Acknowledgments
+
+- Built with [Mesa 3.x](https://mesa.readthedocs.io/) agent-based modeling framework
+- Process mining exports compatible with [PM4Py](https://pm4py.fit.fraunhofer.de/)
+- Designed for football analytics and tactical analysis
+
+---
+
+**Ready for process mining with event logs in CSV and XES formats! ⚽📊**

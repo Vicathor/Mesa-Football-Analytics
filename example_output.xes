@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="M6794-P002" />
+		<event>
+			<string key="possession_id" value="M6794-P002" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416222+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416222+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="0" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P002" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416233+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416233+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="1" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P002" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416299+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416299+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="2" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P002" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="2" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416303+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416303+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="3" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P002" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416337+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416337+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="4" />
+			<int key="@@case_index" value="0" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P003" />
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416351+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416351+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="5" />
+			<int key="@@case_index" value="1" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416353+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416353+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="6" />
+			<int key="@@case_index" value="1" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="Dribble" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.03" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416355+00:00" />
+			<string key="concept:name" value="Dribble" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416355+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="7" />
+			<int key="@@case_index" value="1" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416370+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416370+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="8" />
+			<int key="@@case_index" value="1" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="5" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416374+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416374+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="9" />
+			<int key="@@case_index" value="1" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="2" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416378+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416378+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="10" />
+			<int key="@@case_index" value="1" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P003" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416403+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416403+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="11" />
+			<int key="@@case_index" value="1" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P004" />
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416414+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416414+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="12" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416416+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416416+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="13" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416418+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416418+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="14" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="3" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416442+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416442+00:00" />
+			<string key="org:resource" value="3" />
+			<int key="@@index" value="15" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416493+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416493+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="16" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="2" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="D4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416526+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416526+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="17" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="Dribble" />
+			<string key="zone" value="D3" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.03" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416579+00:00" />
+			<string key="concept:name" value="Dribble" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416579+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="18" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="2" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416640+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416640+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="19" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="10" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416642+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416642+00:00" />
+			<string key="org:resource" value="10" />
+			<int key="@@index" value="20" />
+			<int key="@@case_index" value="2" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P004" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416663+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416663+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="21" />
+			<int key="@@case_index" value="2" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P005" />
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416673+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416673+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="22" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416674+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416674+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="23" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="Shot" />
+			<string key="zone" value="D3" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.175" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416677+00:00" />
+			<string key="concept:name" value="Shot" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416677+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="24" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="6" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416697+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416697+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="25" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416706+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416706+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="26" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="9" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416708+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416708+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="27" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="3" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="B2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416710+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416710+00:00" />
+			<string key="org:resource" value="3" />
+			<int key="@@index" value="28" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416741+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416741+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="29" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416743+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416743+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="30" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="1" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416771+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416771+00:00" />
+			<string key="org:resource" value="1" />
+			<int key="@@index" value="31" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="2" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416794+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416794+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="32" />
+			<int key="@@case_index" value="3" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P005" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416831+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416831+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="33" />
+			<int key="@@case_index" value="3" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P006" />
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416840+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416840+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="34" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416842+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416842+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="35" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="5" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416844+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416844+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="36" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416847+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416847+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="37" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="1" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416856+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416856+00:00" />
+			<string key="org:resource" value="1" />
+			<int key="@@index" value="38" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Dribble" />
+			<string key="zone" value="D5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.03" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416878+00:00" />
+			<string key="concept:name" value="Dribble" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416878+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="39" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="9" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416880+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416880+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="40" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="6" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416896+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416896+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="41" />
+			<int key="@@case_index" value="4" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P006" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416928+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416928+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="42" />
+			<int key="@@case_index" value="4" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P007" />
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416936+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416936+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="43" />
+			<int key="@@case_index" value="5" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416938+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416938+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="44" />
+			<int key="@@case_index" value="5" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="D5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416940+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416940+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="45" />
+			<int key="@@case_index" value="5" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="1" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416956+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416956+00:00" />
+			<string key="org:resource" value="1" />
+			<int key="@@index" value="46" />
+			<int key="@@case_index" value="5" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="2" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416958+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416958+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="47" />
+			<int key="@@case_index" value="5" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.416976+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.416976+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="48" />
+			<int key="@@case_index" value="5" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P007" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417015+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417015+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="49" />
+			<int key="@@case_index" value="5" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P008" />
+		<event>
+			<string key="possession_id" value="M6794-P008" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="D5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417029+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417029+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="50" />
+			<int key="@@case_index" value="6" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P008" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417031+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417031+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="51" />
+			<int key="@@case_index" value="6" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P008" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="11" />
+			<string key="action" value="Shot" />
+			<string key="zone" value="A1" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.075" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417033+00:00" />
+			<string key="concept:name" value="Shot" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417033+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="52" />
+			<int key="@@case_index" value="6" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P008" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="1" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417068+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417068+00:00" />
+			<string key="org:resource" value="1" />
+			<int key="@@index" value="53" />
+			<int key="@@case_index" value="6" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P008" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="3" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417070+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417070+00:00" />
+			<string key="org:resource" value="3" />
+			<int key="@@index" value="54" />
+			<int key="@@case_index" value="6" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P008" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417081+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417081+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="55" />
+			<int key="@@case_index" value="6" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P009" />
+		<event>
+			<string key="possession_id" value="M6794-P009" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417090+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417090+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="56" />
+			<int key="@@case_index" value="7" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P009" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417091+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417091+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="57" />
+			<int key="@@case_index" value="7" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P009" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Shot" />
+			<string key="zone" value="D5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.075" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417093+00:00" />
+			<string key="concept:name" value="Shot" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417093+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="58" />
+			<int key="@@case_index" value="7" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P009" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417102+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417102+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="59" />
+			<int key="@@case_index" value="7" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P010" />
+		<event>
+			<string key="possession_id" value="M6794-P010" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417111+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417111+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="60" />
+			<int key="@@case_index" value="8" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P010" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417112+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417112+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="61" />
+			<int key="@@case_index" value="8" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P010" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417114+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417114+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="62" />
+			<int key="@@case_index" value="8" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P010" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417123+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417123+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="63" />
+			<int key="@@case_index" value="8" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P011" />
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417132+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417132+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="64" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417134+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417134+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="65" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417135+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417135+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="66" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="4" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="B3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417137+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417137+00:00" />
+			<string key="org:resource" value="4" />
+			<int key="@@index" value="67" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417156+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417156+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="68" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="9" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="B3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417202+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417202+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="69" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="6" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417204+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417204+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="70" />
+			<int key="@@case_index" value="9" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P011" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417219+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417219+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="71" />
+			<int key="@@case_index" value="9" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P012" />
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417227+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417227+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="72" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417229+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417229+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="73" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="5" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417231+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417231+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="74" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="7" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417233+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417233+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="75" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417235+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417235+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="76" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="3" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417245+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417245+00:00" />
+			<string key="org:resource" value="3" />
+			<int key="@@index" value="77" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="5" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417254+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417254+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="78" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="2" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417275+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417275+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="79" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417277+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417277+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="80" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="9" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417330+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417330+00:00" />
+			<string key="org:resource" value="9" />
+			<int key="@@index" value="81" />
+			<int key="@@case_index" value="10" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P012" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417352+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417352+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="82" />
+			<int key="@@case_index" value="10" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P013" />
+		<event>
+			<string key="possession_id" value="M6794-P013" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="6" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417361+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417361+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="83" />
+			<int key="@@case_index" value="11" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P013" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417362+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417362+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="84" />
+			<int key="@@case_index" value="11" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P013" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="5" />
+			<string key="action" value="Clearance" />
+			<string key="zone" value="B3" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417364+00:00" />
+			<string key="concept:name" value="Clearance" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417364+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="85" />
+			<int key="@@case_index" value="11" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P013" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="3" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C1" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417381+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417381+00:00" />
+			<string key="org:resource" value="3" />
+			<int key="@@index" value="86" />
+			<int key="@@case_index" value="11" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P013" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="10" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417382+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417382+00:00" />
+			<string key="org:resource" value="10" />
+			<int key="@@index" value="87" />
+			<int key="@@case_index" value="11" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P013" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417476+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417476+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="88" />
+			<int key="@@case_index" value="11" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P014" />
+		<event>
+			<string key="possession_id" value="M6794-P014" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417495+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417495+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="89" />
+			<int key="@@case_index" value="12" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P014" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417497+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417497+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="90" />
+			<int key="@@case_index" value="12" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P014" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="6" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417499+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417499+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="91" />
+			<int key="@@case_index" value="12" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P014" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417521+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417521+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="92" />
+			<int key="@@case_index" value="12" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P014" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="2" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417525+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417525+00:00" />
+			<string key="org:resource" value="2" />
+			<int key="@@index" value="93" />
+			<int key="@@case_index" value="12" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P014" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417546+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417546+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="94" />
+			<int key="@@case_index" value="12" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P015" />
+		<event>
+			<string key="possession_id" value="M6794-P015" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="6" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417556+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417556+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="95" />
+			<int key="@@case_index" value="13" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P015" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417557+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417557+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="96" />
+			<int key="@@case_index" value="13" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P015" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="7" />
+			<string key="action" value="Shot" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.09" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417559+00:00" />
+			<string key="concept:name" value="Shot" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417559+00:00" />
+			<string key="org:resource" value="7" />
+			<int key="@@index" value="97" />
+			<int key="@@case_index" value="13" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P015" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="6" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417596+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417596+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="98" />
+			<int key="@@case_index" value="13" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P015" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417626+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417626+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="99" />
+			<int key="@@case_index" value="13" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P016" />
+		<event>
+			<string key="possession_id" value="M6794-P016" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417635+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417635+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="100" />
+			<int key="@@case_index" value="14" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P016" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417636+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417636+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="101" />
+			<int key="@@case_index" value="14" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P016" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="11" />
+			<string key="action" value="Shot" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.04" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417638+00:00" />
+			<string key="concept:name" value="Shot" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417638+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="102" />
+			<int key="@@case_index" value="14" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P016" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417660+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417660+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="103" />
+			<int key="@@case_index" value="14" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P016" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417686+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417686+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="104" />
+			<int key="@@case_index" value="14" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P017" />
+		<event>
+			<string key="possession_id" value="M6794-P017" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417694+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417694+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="105" />
+			<int key="@@case_index" value="15" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P017" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417696+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417696+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="106" />
+			<int key="@@case_index" value="15" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P017" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="5" />
+			<string key="action" value="Dribble" />
+			<string key="zone" value="B4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.03" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417697+00:00" />
+			<string key="concept:name" value="Dribble" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417697+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="107" />
+			<int key="@@case_index" value="15" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P017" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417722+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417722+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="108" />
+			<int key="@@case_index" value="15" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P018" />
+		<event>
+			<string key="possession_id" value="M6794-P018" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417731+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417731+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="109" />
+			<int key="@@case_index" value="16" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P018" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417732+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417732+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="110" />
+			<int key="@@case_index" value="16" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P018" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417734+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417734+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="111" />
+			<int key="@@case_index" value="16" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P018" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="1" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417742+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417742+00:00" />
+			<string key="org:resource" value="1" />
+			<int key="@@index" value="112" />
+			<int key="@@case_index" value="16" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P018" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417756+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417756+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="113" />
+			<int key="@@case_index" value="16" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P019" />
+		<event>
+			<string key="possession_id" value="M6794-P019" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417764+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417764+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="114" />
+			<int key="@@case_index" value="17" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P019" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417765+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417765+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="115" />
+			<int key="@@case_index" value="17" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P019" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Dribble" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.03" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417767+00:00" />
+			<string key="concept:name" value="Dribble" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417767+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="116" />
+			<int key="@@case_index" value="17" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P019" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="6" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="C2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417783+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417783+00:00" />
+			<string key="org:resource" value="6" />
+			<int key="@@index" value="117" />
+			<int key="@@case_index" value="17" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P019" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="1" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417787+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417787+00:00" />
+			<string key="org:resource" value="1" />
+			<int key="@@index" value="118" />
+			<int key="@@case_index" value="17" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P019" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417799+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417799+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="119" />
+			<int key="@@case_index" value="17" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P020" />
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417810+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417810+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="120" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417811+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417811+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="121" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Dribble" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.03" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417813+00:00" />
+			<string key="concept:name" value="Dribble" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417813+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="122" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="4" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D2" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417830+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417830+00:00" />
+			<string key="org:resource" value="4" />
+			<int key="@@index" value="123" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="10" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417832+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417832+00:00" />
+			<string key="org:resource" value="10" />
+			<int key="@@index" value="124" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="4" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="A5" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417835+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417835+00:00" />
+			<string key="org:resource" value="4" />
+			<int key="@@index" value="125" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="8" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="A4" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.02" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417862+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417862+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="126" />
+			<int key="@@case_index" value="18" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P020" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionEnd" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417871+00:00" />
+			<string key="concept:name" value="PossessionEnd" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417871+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="127" />
+			<int key="@@case_index" value="18" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="M6794-P021" />
+		<event>
+			<string key="possession_id" value="M6794-P021" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="8" />
+			<string key="action" value="BallRecovery" />
+			<string key="zone" value="C4" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.01" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417881+00:00" />
+			<string key="concept:name" value="BallRecovery" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417881+00:00" />
+			<string key="org:resource" value="8" />
+			<int key="@@index" value="128" />
+			<int key="@@case_index" value="19" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P021" />
+			<string key="team" value="Away" />
+			<int key="player_id" value="0" />
+			<string key="action" value="PossessionStart" />
+			<string key="zone" value="C3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417883+00:00" />
+			<string key="concept:name" value="PossessionStart" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417883+00:00" />
+			<string key="org:resource" value="0" />
+			<int key="@@index" value="129" />
+			<int key="@@case_index" value="19" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P021" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="5" />
+			<string key="action" value="Pass" />
+			<string key="zone" value="B5" />
+			<int key="pressure" value="1" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Failure" />
+			<float key="xg_change" value="-0.05" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417885+00:00" />
+			<string key="concept:name" value="Pass" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417885+00:00" />
+			<string key="org:resource" value="5" />
+			<int key="@@index" value="130" />
+			<int key="@@case_index" value="19" />
+		</event>
+		<event>
+			<string key="possession_id" value="M6794-P021" />
+			<string key="team" value="Home" />
+			<int key="player_id" value="11" />
+			<string key="action" value="SupportRequest" />
+			<string key="zone" value="D3" />
+			<int key="pressure" value="0" />
+			<string key="team_status" value="Tied" />
+			<string key="outcome" value="Success" />
+			<float key="xg_change" value="0.0" />
+			<date key="timestamp" value="2025-06-15T20:30:50.417888+00:00" />
+			<string key="concept:name" value="SupportRequest" />
+			<date key="time:timestamp" value="2025-06-15T20:30:50.417888+00:00" />
+			<string key="org:resource" value="11" />
+			<int key="@@index" value="131" />
+			<int key="@@case_index" value="19" />
+		</event>
+	</trace>
+</log>
