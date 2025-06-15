@@ -1,0 +1,700 @@
+possession_id,timestamp,team,player_id,action,zone,pressure,team_status,outcome,xg_change
+M7463-P002,2025-06-15T20:19:37.145896Z,Home,9,BallRecovery,C5,0,Tied,Success,0.01
+M7463-P002,2025-06-15T20:19:37.145911Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P002,2025-06-15T20:19:37.145982Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P003,2025-06-15T20:19:37.145997Z,Away,6,BallRecovery,B5,0,Tied,Success,0.01
+M7463-P003,2025-06-15T20:19:37.145999Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P003,2025-06-15T20:19:37.146002Z,Home,9,Shot,C5,1,Tied,Failure,-0.04
+M7463-P003,2025-06-15T20:19:37.146005Z,Home,5,SupportRequest,A5,0,Tied,Success,0.0
+M7463-P003,2025-06-15T20:19:37.146019Z,Away,7,SupportRequest,C1,0,Tied,Success,0.0
+M7463-P003,2025-06-15T20:19:37.146022Z,Home,6,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P003,2025-06-15T20:19:37.146045Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P004,2025-06-15T20:19:37.146060Z,Home,6,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P004,2025-06-15T20:19:37.146062Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P004,2025-06-15T20:19:37.146065Z,Away,6,Shot,B5,1,Tied,Failure,-0.04
+M7463-P004,2025-06-15T20:19:37.146088Z,Away,1,SupportRequest,D3,0,Tied,Success,0.0
+M7463-P004,2025-06-15T20:19:37.146125Z,Home,6,Pass,C3,1,Tied,Success,0.02
+M7463-P004,2025-06-15T20:19:37.146139Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P005,2025-06-15T20:19:37.146149Z,Away,8,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P005,2025-06-15T20:19:37.146151Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P005,2025-06-15T20:19:37.146153Z,Home,10,Shot,C2,1,Tied,Failure,-0.06
+M7463-P005,2025-06-15T20:19:37.146155Z,Home,11,SupportRequest,B5,0,Tied,Success,0.0
+M7463-P005,2025-06-15T20:19:37.146164Z,Away,10,SupportRequest,B4,0,Tied,Success,0.0
+M7463-P005,2025-06-15T20:19:37.146174Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P006,2025-06-15T20:19:37.146188Z,Home,8,BallRecovery,B3,0,Tied,Success,0.01
+M7463-P006,2025-06-15T20:19:37.146190Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P006,2025-06-15T20:19:37.146192Z,Away,8,Pass,C3,1,Tied,Failure,-0.05
+M7463-P006,2025-06-15T20:19:37.146248Z,Home,8,Pass,B3,1,Tied,Success,0.02
+M7463-P006,2025-06-15T20:19:37.146289Z,Home,1,Pass,B1,1,Tied,Success,0.02
+M7463-P006,2025-06-15T20:19:37.146299Z,Away,4,SupportRequest,C4,0,Tied,Success,0.0
+M7463-P006,2025-06-15T20:19:37.146317Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P007,2025-06-15T20:19:37.146325Z,Away,7,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P007,2025-06-15T20:19:37.146326Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P007,2025-06-15T20:19:37.146328Z,Home,6,Pass,B3,1,Tied,Failure,-0.05
+M7463-P007,2025-06-15T20:19:37.146378Z,Away,7,Pass,C1,1,Tied,Success,0.02
+M7463-P007,2025-06-15T20:19:37.146386Z,Home,9,SupportRequest,C5,0,Tied,Success,0.0
+M7463-P007,2025-06-15T20:19:37.146401Z,Away,6,SupportRequest,B5,0,Tied,Success,0.0
+M7463-P007,2025-06-15T20:19:37.146420Z,Home,10,SupportRequest,C2,0,Tied,Success,0.0
+M7463-P007,2025-06-15T20:19:37.146437Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P008,2025-06-15T20:19:37.146445Z,Home,9,BallRecovery,B5,0,Tied,Success,0.01
+M7463-P008,2025-06-15T20:19:37.146447Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P008,2025-06-15T20:19:37.146448Z,Away,2,Clearance,D1,1,Tied,Success,0.0
+M7463-P008,2025-06-15T20:19:37.146506Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P009,2025-06-15T20:19:37.146514Z,Away,7,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P009,2025-06-15T20:19:37.146515Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P009,2025-06-15T20:19:37.146517Z,Home,9,Pass,B5,1,Tied,Failure,-0.05
+M7463-P009,2025-06-15T20:19:37.146525Z,Away,10,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P009,2025-06-15T20:19:37.146549Z,Away,7,Pass,C1,1,Tied,Success,0.02
+M7463-P009,2025-06-15T20:19:37.146562Z,Home,2,SupportRequest,C5,0,Tied,Success,0.0
+M7463-P009,2025-06-15T20:19:37.146575Z,Home,1,SupportRequest,B1,0,Tied,Success,0.0
+M7463-P009,2025-06-15T20:19:37.146582Z,Away,4,SupportRequest,C4,0,Tied,Success,0.0
+M7463-P009,2025-06-15T20:19:37.146594Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146602Z,Home,9,BallRecovery,B5,0,Tied,Success,0.01
+M7463-P010,2025-06-15T20:19:37.146603Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146605Z,Away,9,Shot,B1,1,Tied,Failure,-0.04
+M7463-P010,2025-06-15T20:19:37.146607Z,Away,11,SupportRequest,B3,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146609Z,Away,3,SupportRequest,A2,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146663Z,Home,9,Pass,B5,1,Tied,Success,0.02
+M7463-P010,2025-06-15T20:19:37.146665Z,Home,4,SupportRequest,A1,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146667Z,Home,7,SupportRequest,D4,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146669Z,Home,10,SupportRequest,A2,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146672Z,Home,3,SupportRequest,A1,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146674Z,Away,6,SupportRequest,D5,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146708Z,Home,11,SupportRequest,C4,0,Tied,Success,0.0
+M7463-P010,2025-06-15T20:19:37.146724Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P011,2025-06-15T20:19:37.146732Z,Away,8,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P011,2025-06-15T20:19:37.146734Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P011,2025-06-15T20:19:37.146736Z,Home,1,Pass,C4,1,Tied,Failure,-0.05
+M7463-P011,2025-06-15T20:19:37.146751Z,Home,9,SupportRequest,B5,0,Tied,Success,0.0
+M7463-P011,2025-06-15T20:19:37.146754Z,Away,11,SupportRequest,B3,0,Tied,Success,0.0
+M7463-P011,2025-06-15T20:19:37.146789Z,Away,8,Pass,C3,1,Tied,Success,0.02
+M7463-P011,2025-06-15T20:19:37.146810Z,Away,6,SupportRequest,D5,0,Tied,Success,0.0
+M7463-P011,2025-06-15T20:19:37.146825Z,Home,2,SupportRequest,C5,0,Tied,Success,0.0
+M7463-P011,2025-06-15T20:19:37.146840Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P012,2025-06-15T20:19:37.146847Z,Home,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P012,2025-06-15T20:19:37.146849Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P012,2025-06-15T20:19:37.146850Z,Away,1,Clearance,B4,1,Tied,Success,0.0
+M7463-P012,2025-06-15T20:19:37.146871Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P013,2025-06-15T20:19:37.146879Z,Away,8,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P013,2025-06-15T20:19:37.146881Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P013,2025-06-15T20:19:37.146882Z,Home,7,Pass,C3,1,Tied,Failure,-0.05
+M7463-P013,2025-06-15T20:19:37.146892Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P014,2025-06-15T20:19:37.146899Z,Home,6,BallRecovery,C2,0,Tied,Success,0.01
+M7463-P014,2025-06-15T20:19:37.146901Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P014,2025-06-15T20:19:37.146902Z,Away,8,Pass,C3,1,Tied,Failure,-0.05
+M7463-P014,2025-06-15T20:19:37.146917Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P015,2025-06-15T20:19:37.146925Z,Away,7,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P015,2025-06-15T20:19:37.146926Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P015,2025-06-15T20:19:37.146928Z,Home,6,Pass,C2,1,Tied,Failure,-0.05
+M7463-P015,2025-06-15T20:19:37.146947Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P016,2025-06-15T20:19:37.146955Z,Home,8,BallRecovery,D1,0,Tied,Success,0.01
+M7463-P016,2025-06-15T20:19:37.146956Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P016,2025-06-15T20:19:37.146958Z,Away,7,Dribble,C1,1,Tied,Failure,-0.03
+M7463-P016,2025-06-15T20:19:37.146965Z,Away,11,SupportRequest,A4,0,Tied,Success,0.0
+M7463-P016,2025-06-15T20:19:37.146991Z,Home,6,SupportRequest,C2,0,Tied,Success,0.0
+M7463-P016,2025-06-15T20:19:37.147006Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P017,2025-06-15T20:19:37.147014Z,Away,7,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P017,2025-06-15T20:19:37.147015Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P017,2025-06-15T20:19:37.147017Z,Home,8,Dribble,D1,1,Tied,Failure,-0.03
+M7463-P017,2025-06-15T20:19:37.147025Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P018,2025-06-15T20:19:37.147032Z,Home,6,BallRecovery,C2,0,Tied,Success,0.01
+M7463-P018,2025-06-15T20:19:37.147033Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P018,2025-06-15T20:19:37.147035Z,Away,7,Pass,C1,1,Tied,Failure,-0.05
+M7463-P018,2025-06-15T20:19:37.147037Z,Home,2,SupportRequest,C5,0,Tied,Success,0.0
+M7463-P018,2025-06-15T20:19:37.147058Z,Home,9,SupportRequest,C4,0,Tied,Success,0.0
+M7463-P018,2025-06-15T20:19:37.147096Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147104Z,Away,6,BallRecovery,D5,0,Tied,Success,0.01
+M7463-P019,2025-06-15T20:19:37.147105Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147107Z,Home,6,Pass,C2,1,Tied,Failure,-0.05
+M7463-P019,2025-06-15T20:19:37.147109Z,Away,1,SupportRequest,B4,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147145Z,Away,6,Dribble,C5,1,Tied,Success,0.03
+M7463-P019,2025-06-15T20:19:37.147184Z,Away,1,SupportRequest,B4,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147193Z,Away,6,Dribble,B5,1,Tied,Success,0.03
+M7463-P019,2025-06-15T20:19:37.147230Z,Home,10,SupportRequest,C2,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147249Z,Home,4,SupportRequest,B2,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147251Z,Home,7,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P019,2025-06-15T20:19:37.147283Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P020,2025-06-15T20:19:37.147291Z,Home,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P020,2025-06-15T20:19:37.147292Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P020,2025-06-15T20:19:37.147294Z,Away,6,Shot,B5,1,Tied,Failure,-0.04
+M7463-P020,2025-06-15T20:19:37.147301Z,Home,1,SupportRequest,D2,0,Tied,Success,0.0
+M7463-P020,2025-06-15T20:19:37.147303Z,Home,3,SupportRequest,B1,0,Tied,Success,0.0
+M7463-P020,2025-06-15T20:19:37.147304Z,Away,7,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P020,2025-06-15T20:19:37.147324Z,Home,1,SupportRequest,D2,0,Tied,Success,0.0
+M7463-P020,2025-06-15T20:19:37.147339Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P021,2025-06-15T20:19:37.147349Z,Away,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P021,2025-06-15T20:19:37.147350Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P021,2025-06-15T20:19:37.147352Z,Home,7,Dribble,C3,1,Tied,Failure,-0.03
+M7463-P021,2025-06-15T20:19:37.147360Z,Away,5,SupportRequest,A1,0,Tied,Success,0.0
+M7463-P021,2025-06-15T20:19:37.147369Z,Home,6,SupportRequest,B2,0,Tied,Success,0.0
+M7463-P021,2025-06-15T20:19:37.147397Z,Away,7,Pass,C3,1,Tied,Success,0.02
+M7463-P021,2025-06-15T20:19:37.147399Z,Home,7,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P021,2025-06-15T20:19:37.147431Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P022,2025-06-15T20:19:37.147438Z,Home,8,BallRecovery,D2,0,Tied,Success,0.01
+M7463-P022,2025-06-15T20:19:37.147440Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P022,2025-06-15T20:19:37.147441Z,Away,4,Pass,B4,1,Tied,Failure,-0.05
+M7463-P022,2025-06-15T20:19:37.147443Z,Home,10,SupportRequest,C2,0,Tied,Success,0.0
+M7463-P022,2025-06-15T20:19:37.147494Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P023,2025-06-15T20:19:37.147502Z,Away,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P023,2025-06-15T20:19:37.147503Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P023,2025-06-15T20:19:37.147504Z,Home,8,Pass,D2,1,Tied,Failure,-0.05
+M7463-P023,2025-06-15T20:19:37.147553Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P024,2025-06-15T20:19:37.147563Z,Home,8,BallRecovery,D2,0,Tied,Success,0.01
+M7463-P024,2025-06-15T20:19:37.147565Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P024,2025-06-15T20:19:37.147567Z,Away,7,Pass,C3,1,Tied,Failure,-0.05
+M7463-P024,2025-06-15T20:19:37.147590Z,Away,4,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P024,2025-06-15T20:19:37.147618Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147626Z,Away,6,BallRecovery,D5,0,Tied,Success,0.01
+M7463-P025,2025-06-15T20:19:37.147627Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147629Z,Home,8,Pass,D2,1,Tied,Failure,-0.05
+M7463-P025,2025-06-15T20:19:37.147661Z,Away,6,Dribble,C5,1,Tied,Success,0.03
+M7463-P025,2025-06-15T20:19:37.147675Z,Home,2,SupportRequest,A5,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147677Z,Home,7,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147692Z,Home,4,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147706Z,Home,8,SupportRequest,D2,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147721Z,Home,6,SupportRequest,D3,0,Tied,Success,0.0
+M7463-P025,2025-06-15T20:19:37.147769Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P026,2025-06-15T20:19:37.147784Z,Home,7,BallRecovery,B4,0,Tied,Success,0.01
+M7463-P026,2025-06-15T20:19:37.147786Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P026,2025-06-15T20:19:37.147788Z,Away,6,Pass,C5,1,Tied,Failure,-0.05
+M7463-P026,2025-06-15T20:19:37.147861Z,Home,7,Dribble,C4,1,Tied,Success,0.03
+M7463-P026,2025-06-15T20:19:37.147869Z,Home,9,SupportRequest,C4,0,Tied,Success,0.0
+M7463-P026,2025-06-15T20:19:37.147887Z,Home,5,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P026,2025-06-15T20:19:37.147889Z,Away,7,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P026,2025-06-15T20:19:37.147957Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P027,2025-06-15T20:19:37.147967Z,Away,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P027,2025-06-15T20:19:37.147968Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P027,2025-06-15T20:19:37.147970Z,Home,7,Shot,C4,1,Tied,Failure,-0.06
+M7463-P027,2025-06-15T20:19:37.148004Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P028,2025-06-15T20:19:37.148012Z,Home,6,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P028,2025-06-15T20:19:37.148014Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P028,2025-06-15T20:19:37.148015Z,Away,7,Dribble,C3,1,Tied,Failure,-0.03
+M7463-P028,2025-06-15T20:19:37.148034Z,Home,6,Pass,C1,1,Tied,Success,0.02
+M7463-P028,2025-06-15T20:19:37.148054Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P029,2025-06-15T20:19:37.148062Z,Away,6,BallRecovery,B5,0,Tied,Success,0.01
+M7463-P029,2025-06-15T20:19:37.148064Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P029,2025-06-15T20:19:37.148066Z,Home,8,Pass,B1,1,Tied,Failure,-0.05
+M7463-P029,2025-06-15T20:19:37.148081Z,Away,8,SupportRequest,A4,0,Tied,Success,0.0
+M7463-P029,2025-06-15T20:19:37.148121Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P030,2025-06-15T20:19:37.148129Z,Home,7,BallRecovery,C4,0,Tied,Success,0.01
+M7463-P030,2025-06-15T20:19:37.148130Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P030,2025-06-15T20:19:37.148132Z,Away,6,Shot,B5,1,Tied,Failure,-0.04
+M7463-P030,2025-06-15T20:19:37.148149Z,Home,7,Pass,C4,1,Tied,Success,0.02
+M7463-P030,2025-06-15T20:19:37.148193Z,Away,3,SupportRequest,B1,0,Tied,Success,0.0
+M7463-P030,2025-06-15T20:19:37.148202Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P031,2025-06-15T20:19:37.148210Z,Away,7,BallRecovery,C4,0,Tied,Success,0.01
+M7463-P031,2025-06-15T20:19:37.148211Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P031,2025-06-15T20:19:37.148213Z,Home,8,Pass,C2,1,Tied,Failure,-0.05
+M7463-P031,2025-06-15T20:19:37.148221Z,Away,6,SupportRequest,B5,0,Tied,Success,0.0
+M7463-P031,2025-06-15T20:19:37.148309Z,Away,7,Dribble,B4,1,Tied,Success,0.03
+M7463-P031,2025-06-15T20:19:37.148335Z,Home,7,SupportRequest,C4,0,Tied,Success,0.0
+M7463-P031,2025-06-15T20:19:37.148369Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P032,2025-06-15T20:19:37.148377Z,Home,7,BallRecovery,C4,0,Tied,Success,0.01
+M7463-P032,2025-06-15T20:19:37.148379Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P032,2025-06-15T20:19:37.148380Z,Away,7,Pass,B4,1,Tied,Failure,-0.05
+M7463-P032,2025-06-15T20:19:37.148407Z,Home,6,SupportRequest,C1,0,Tied,Success,0.0
+M7463-P032,2025-06-15T20:19:37.148471Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P033,2025-06-15T20:19:37.148479Z,Away,6,BallRecovery,A5,0,Tied,Success,0.01
+M7463-P033,2025-06-15T20:19:37.148484Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P033,2025-06-15T20:19:37.148486Z,Home,7,Shot,C4,1,Tied,Failure,-0.06
+M7463-P033,2025-06-15T20:19:37.148501Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P034,2025-06-15T20:19:37.148509Z,Home,6,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P034,2025-06-15T20:19:37.148510Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P034,2025-06-15T20:19:37.148512Z,Away,6,Shot,A5,1,Tied,Failure,-0.075
+M7463-P034,2025-06-15T20:19:37.148531Z,Away,4,SupportRequest,B3,0,Tied,Success,0.0
+M7463-P034,2025-06-15T20:19:37.148545Z,Away,3,SupportRequest,C2,0,Tied,Success,0.0
+M7463-P034,2025-06-15T20:19:37.148560Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P035,2025-06-15T20:19:37.148568Z,Away,7,BallRecovery,C5,0,Tied,Success,0.01
+M7463-P035,2025-06-15T20:19:37.148569Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P035,2025-06-15T20:19:37.148571Z,Home,6,Pass,C1,1,Tied,Failure,-0.05
+M7463-P035,2025-06-15T20:19:37.148585Z,Away,7,Dribble,B5,1,Tied,Success,0.03
+M7463-P035,2025-06-15T20:19:37.148606Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P036,2025-06-15T20:19:37.148614Z,Home,6,BallRecovery,C1,0,Tied,Success,0.01
+M7463-P036,2025-06-15T20:19:37.148615Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P036,2025-06-15T20:19:37.148617Z,Away,7,Shot,B5,1,Tied,Failure,-0.04
+M7463-P036,2025-06-15T20:19:37.148625Z,Away,6,SupportRequest,A5,0,Tied,Success,0.0
+M7463-P036,2025-06-15T20:19:37.148639Z,Away,1,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P036,2025-06-15T20:19:37.148647Z,Away,8,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P036,2025-06-15T20:19:37.148661Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P037,2025-06-15T20:19:37.148669Z,Away,7,BallRecovery,B5,0,Tied,Success,0.01
+M7463-P037,2025-06-15T20:19:37.148670Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P037,2025-06-15T20:19:37.148672Z,Home,6,Pass,C1,1,Tied,Failure,-0.05
+M7463-P037,2025-06-15T20:19:37.148718Z,Away,7,Pass,B5,1,Tied,Success,0.02
+M7463-P037,2025-06-15T20:19:37.148720Z,Home,9,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P037,2025-06-15T20:19:37.148734Z,Home,2,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P037,2025-06-15T20:19:37.148757Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P038,2025-06-15T20:19:37.148764Z,Home,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P038,2025-06-15T20:19:37.148766Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P038,2025-06-15T20:19:37.148767Z,Away,9,Shot,A5,1,Tied,Failure,-0.075
+M7463-P038,2025-06-15T20:19:37.148815Z,Away,7,SupportRequest,B5,0,Tied,Success,0.0
+M7463-P038,2025-06-15T20:19:37.148839Z,Home,7,Pass,C3,1,Tied,Success,0.02
+M7463-P038,2025-06-15T20:19:37.148848Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P039,2025-06-15T20:19:37.148856Z,Away,7,BallRecovery,B5,0,Tied,Success,0.01
+M7463-P039,2025-06-15T20:19:37.148859Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P039,2025-06-15T20:19:37.148861Z,Home,2,Clearance,B3,1,Tied,Failure,0.0
+M7463-P039,2025-06-15T20:19:37.148881Z,Home,6,SupportRequest,A1,0,Tied,Success,0.0
+M7463-P039,2025-06-15T20:19:37.148883Z,Away,2,SupportRequest,A2,0,Tied,Success,0.0
+M7463-P039,2025-06-15T20:19:37.148892Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P040,2025-06-15T20:19:37.148900Z,Home,9,BallRecovery,A3,0,Tied,Success,0.01
+M7463-P040,2025-06-15T20:19:37.148901Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P040,2025-06-15T20:19:37.148903Z,Away,7,Dribble,B5,1,Tied,Failure,-0.03
+M7463-P040,2025-06-15T20:19:37.148919Z,Home,9,Pass,A3,1,Tied,Success,0.02
+M7463-P040,2025-06-15T20:19:37.148932Z,Away,9,SupportRequest,A5,0,Tied,Success,0.0
+M7463-P040,2025-06-15T20:19:37.148959Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P041,2025-06-15T20:19:37.148966Z,Away,6,BallRecovery,A3,0,Tied,Success,0.01
+M7463-P041,2025-06-15T20:19:37.148968Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P041,2025-06-15T20:19:37.148969Z,Home,3,Pass,A3,1,Tied,Failure,-0.05
+M7463-P041,2025-06-15T20:19:37.148994Z,Away,7,SupportRequest,B5,0,Tied,Success,0.0
+M7463-P041,2025-06-15T20:19:37.149009Z,Away,5,SupportRequest,A5,0,Tied,Success,0.0
+M7463-P041,2025-06-15T20:19:37.149030Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P042,2025-06-15T20:19:37.149038Z,Home,7,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P042,2025-06-15T20:19:37.149039Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P042,2025-06-15T20:19:37.149041Z,Away,6,Shot,A3,1,Tied,Failure,-0.175
+M7463-P042,2025-06-15T20:19:37.149044Z,Home,6,SupportRequest,A1,0,Tied,Success,0.0
+M7463-P042,2025-06-15T20:19:37.149062Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P043,2025-06-15T20:19:37.149070Z,Away,8,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P043,2025-06-15T20:19:37.149072Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P043,2025-06-15T20:19:37.149073Z,Home,7,Shot,C3,1,Tied,Failure,-0.09
+M7463-P043,2025-06-15T20:19:37.149083Z,Home,9,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P043,2025-06-15T20:19:37.149099Z,Away,8,Pass,C3,1,Tied,Success,0.02
+M7463-P043,2025-06-15T20:19:37.149113Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P044,2025-06-15T20:19:37.149121Z,Home,6,BallRecovery,A1,0,Tied,Success,0.01
+M7463-P044,2025-06-15T20:19:37.149122Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P044,2025-06-15T20:19:37.149124Z,Away,3,Pass,C4,1,Tied,Failure,-0.05
+M7463-P044,2025-06-15T20:19:37.149137Z,Away,6,SupportRequest,A3,0,Tied,Success,0.0
+M7463-P044,2025-06-15T20:19:37.149139Z,Home,5,SupportRequest,A2,0,Tied,Success,0.0
+M7463-P044,2025-06-15T20:19:37.149153Z,Away,9,SupportRequest,A4,0,Tied,Success,0.0
+M7463-P044,2025-06-15T20:19:37.149187Z,Home,6,Dribble,B1,1,Tied,Success,0.03
+M7463-P044,2025-06-15T20:19:37.149201Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P045,2025-06-15T20:19:37.149209Z,Away,6,BallRecovery,A3,0,Tied,Success,0.01
+M7463-P045,2025-06-15T20:19:37.149210Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P045,2025-06-15T20:19:37.149212Z,Home,6,Pass,B1,1,Tied,Failure,-0.05
+M7463-P045,2025-06-15T20:19:37.149228Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P046,2025-06-15T20:19:37.149236Z,Home,9,BallRecovery,A3,0,Tied,Success,0.01
+M7463-P046,2025-06-15T20:19:37.149237Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P046,2025-06-15T20:19:37.149239Z,Away,6,Shot,A3,1,Tied,Failure,-0.175
+M7463-P046,2025-06-15T20:19:37.149269Z,Home,9,Pass,A3,1,Tied,Success,0.02
+M7463-P046,2025-06-15T20:19:37.149271Z,Away,8,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P046,2025-06-15T20:19:37.149273Z,Home,2,SupportRequest,B4,0,Tied,Success,0.0
+M7463-P046,2025-06-15T20:19:37.149346Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P047,2025-06-15T20:19:37.149354Z,Away,8,BallRecovery,C3,0,Tied,Success,0.01
+M7463-P047,2025-06-15T20:19:37.149356Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P047,2025-06-15T20:19:37.149357Z,Home,7,Pass,B4,1,Tied,Failure,-0.05
+M7463-P047,2025-06-15T20:19:37.149374Z,Home,1,SupportRequest,C3,0,Tied,Success,0.0
+M7463-P047,2025-06-15T20:19:37.149398Z,Home,5,SupportRequest,A2,0,Tied,Success,0.0
+M7463-P047,2025-06-15T20:19:37.149411Z,Away,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P048,2025-06-15T20:19:37.149419Z,Home,6,BallRecovery,B1,0,Tied,Success,0.01
+M7463-P048,2025-06-15T20:19:37.149420Z,Home,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P048,2025-06-15T20:19:37.149422Z,Away,8,Pass,C3,1,Tied,Failure,-0.05
+M7463-P048,2025-06-15T20:19:37.149436Z,Home,2,SupportRequest,B4,0,Tied,Success,0.0
+M7463-P048,2025-06-15T20:19:37.149456Z,Home,0,PossessionEnd,C3,0,Tied,Success,0.0
+M7463-P049,2025-06-15T20:19:37.149464Z,Away,6,BallRecovery,B2,0,Tied,Success,0.01
+M7463-P049,2025-06-15T20:19:37.149465Z,Away,0,PossessionStart,C3,0,Tied,Success,0.0
+M7463-P049,2025-06-15T20:19:37.149467Z,Home,6,Pass,B1,1,Tied,Failure,-0.05
+M7463-P049,2025-06-15T20:19:37.149474Z,Away,11,SupportRequest,A3,0,Tied,Success,0.0
+M7463-GOAL01,2025-06-15T20:19:37.149498Z,Away,6,Goal,B2,0,Away Leading,Success,1.0
+M7463-P050,2025-06-15T20:19:37.149506Z,Home,7,BallRecovery,B5,0,Away Leading,Success,0.01
+M7463-P050,2025-06-15T20:19:37.149507Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P050,2025-06-15T20:19:37.149509Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149517Z,Away,6,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P051,2025-06-15T20:19:37.149518Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149519Z,Away,6,Shot,B2,1,Away Leading,Success,0.12
+M7463-P051,2025-06-15T20:19:37.149521Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149523Z,Away,5,SupportRequest,C5,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149579Z,Away,6,Pass,B2,1,Away Leading,Success,0.02
+M7463-P051,2025-06-15T20:19:37.149581Z,Away,7,SupportRequest,B3,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149597Z,Away,6,SupportRequest,B2,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149636Z,Away,8,Pass,C1,1,Away Leading,Success,0.02
+M7463-P051,2025-06-15T20:19:37.149667Z,Away,5,SupportRequest,C5,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149675Z,Home,2,SupportRequest,D4,0,Away Leading,Success,0.0
+M7463-P051,2025-06-15T20:19:37.149725Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P052,2025-06-15T20:19:37.149733Z,Home,9,BallRecovery,A3,0,Away Leading,Success,0.01
+M7463-P052,2025-06-15T20:19:37.149734Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P052,2025-06-15T20:19:37.149736Z,Away,3,Shot,B1,1,Away Leading,Failure,-0.04
+M7463-P052,2025-06-15T20:19:37.149762Z,Away,2,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P052,2025-06-15T20:19:37.149764Z,Home,10,SupportRequest,D5,0,Away Leading,Success,0.0
+M7463-P052,2025-06-15T20:19:37.149772Z,Away,10,SupportRequest,A3,0,Away Leading,Success,0.0
+M7463-P052,2025-06-15T20:19:37.149780Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P053,2025-06-15T20:19:37.149788Z,Away,6,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P053,2025-06-15T20:19:37.149789Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P053,2025-06-15T20:19:37.149791Z,Home,9,Pass,A3,1,Away Leading,Failure,-0.05
+M7463-P053,2025-06-15T20:19:37.149808Z,Away,6,Dribble,A2,1,Away Leading,Success,0.03
+M7463-P053,2025-06-15T20:19:37.149821Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P053,2025-06-15T20:19:37.149824Z,Home,4,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P053,2025-06-15T20:19:37.149825Z,Away,4,SupportRequest,B2,0,Away Leading,Success,0.0
+M7463-P053,2025-06-15T20:19:37.149827Z,Home,10,SupportRequest,D5,0,Away Leading,Success,0.0
+M7463-P053,2025-06-15T20:19:37.149843Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P054,2025-06-15T20:19:37.149850Z,Home,8,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P054,2025-06-15T20:19:37.149852Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P054,2025-06-15T20:19:37.149857Z,Away,6,Shot,A2,1,Away Leading,Failure,-0.125
+M7463-P054,2025-06-15T20:19:37.149866Z,Home,11,SupportRequest,B4,0,Away Leading,Success,0.0
+M7463-P054,2025-06-15T20:19:37.149911Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P055,2025-06-15T20:19:37.149918Z,Away,6,BallRecovery,A2,0,Away Leading,Success,0.01
+M7463-P055,2025-06-15T20:19:37.149920Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P055,2025-06-15T20:19:37.149921Z,Home,8,Pass,B2,1,Away Leading,Failure,-0.05
+M7463-GOAL02,2025-06-15T20:19:37.149938Z,Away,6,Goal,A2,0,Away Leading,Success,1.0
+M7463-P056,2025-06-15T20:19:37.149945Z,Home,7,BallRecovery,B4,0,Away Leading,Success,0.01
+M7463-P056,2025-06-15T20:19:37.149947Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P056,2025-06-15T20:19:37.149948Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P057,2025-06-15T20:19:37.149956Z,Away,8,BallRecovery,C1,0,Away Leading,Success,0.01
+M7463-P057,2025-06-15T20:19:37.149957Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P057,2025-06-15T20:19:37.149959Z,Away,6,Shot,A2,1,Away Leading,Success,0.25
+M7463-P057,2025-06-15T20:19:37.149982Z,Away,8,Pass,C1,1,Away Leading,Success,0.02
+M7463-P057,2025-06-15T20:19:37.149984Z,Away,3,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P057,2025-06-15T20:19:37.149986Z,Home,3,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P057,2025-06-15T20:19:37.150018Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P058,2025-06-15T20:19:37.150026Z,Home,8,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P058,2025-06-15T20:19:37.150027Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P058,2025-06-15T20:19:37.150028Z,Away,10,Pass,D2,1,Away Leading,Failure,-0.05
+M7463-P058,2025-06-15T20:19:37.150031Z,Away,4,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P058,2025-06-15T20:19:37.150039Z,Home,8,Dribble,C2,1,Away Leading,Success,0.03
+M7463-P058,2025-06-15T20:19:37.150052Z,Away,5,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P058,2025-06-15T20:19:37.150085Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P059,2025-06-15T20:19:37.150093Z,Away,6,BallRecovery,A2,0,Away Leading,Success,0.01
+M7463-P059,2025-06-15T20:19:37.150096Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P059,2025-06-15T20:19:37.150099Z,Home,8,Shot,C2,1,Away Leading,Failure,-0.06
+M7463-P059,2025-06-15T20:19:37.150101Z,Home,1,SupportRequest,C2,0,Away Leading,Success,0.0
+M7463-P059,2025-06-15T20:19:37.150117Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P060,2025-06-15T20:19:37.150125Z,Home,9,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P060,2025-06-15T20:19:37.150126Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P060,2025-06-15T20:19:37.150128Z,Away,6,Shot,A2,1,Away Leading,Failure,-0.125
+M7463-P060,2025-06-15T20:19:37.150137Z,Away,11,SupportRequest,A1,0,Away Leading,Success,0.0
+M7463-P060,2025-06-15T20:19:37.150146Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P061,2025-06-15T20:19:37.150153Z,Away,8,BallRecovery,C1,0,Away Leading,Success,0.01
+M7463-P061,2025-06-15T20:19:37.150155Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P061,2025-06-15T20:19:37.150156Z,Home,9,Shot,C2,1,Away Leading,Failure,-0.06
+M7463-P061,2025-06-15T20:19:37.150177Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P062,2025-06-15T20:19:37.150185Z,Home,9,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P062,2025-06-15T20:19:37.150186Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P062,2025-06-15T20:19:37.150188Z,Away,8,Dribble,C1,1,Away Leading,Failure,-0.03
+M7463-P062,2025-06-15T20:19:37.150197Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P063,2025-06-15T20:19:37.150205Z,Away,7,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P063,2025-06-15T20:19:37.150206Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P063,2025-06-15T20:19:37.150208Z,Home,9,Dribble,C2,1,Away Leading,Failure,-0.03
+M7463-P063,2025-06-15T20:19:37.150218Z,Away,1,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P063,2025-06-15T20:19:37.150249Z,Away,8,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P063,2025-06-15T20:19:37.150257Z,Home,8,SupportRequest,C2,0,Away Leading,Success,0.0
+M7463-P063,2025-06-15T20:19:37.150270Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150278Z,Home,8,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P064,2025-06-15T20:19:37.150279Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150281Z,Away,7,Dribble,D1,1,Away Leading,Failure,-0.03
+M7463-P064,2025-06-15T20:19:37.150310Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150320Z,Home,8,Dribble,D2,1,Away Leading,Success,0.03
+M7463-P064,2025-06-15T20:19:37.150347Z,Away,5,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150369Z,Home,8,Dribble,D2,1,Away Leading,Success,0.03
+M7463-P064,2025-06-15T20:19:37.150417Z,Away,11,SupportRequest,A1,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150419Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150445Z,Home,7,SupportRequest,B2,0,Away Leading,Success,0.0
+M7463-P064,2025-06-15T20:19:37.150465Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P065,2025-06-15T20:19:37.150473Z,Away,7,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P065,2025-06-15T20:19:37.150474Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P065,2025-06-15T20:19:37.150476Z,Home,8,Shot,D2,1,Away Leading,Failure,-0.125
+M7463-P065,2025-06-15T20:19:37.150490Z,Away,7,Dribble,C1,1,Away Leading,Success,0.03
+M7463-P065,2025-06-15T20:19:37.150511Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P066,2025-06-15T20:19:37.150519Z,Home,7,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P066,2025-06-15T20:19:37.150520Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P066,2025-06-15T20:19:37.150522Z,Away,7,Dribble,C1,1,Away Leading,Failure,-0.03
+M7463-P066,2025-06-15T20:19:37.150530Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P067,2025-06-15T20:19:37.150537Z,Away,6,BallRecovery,C3,0,Away Leading,Success,0.01
+M7463-P067,2025-06-15T20:19:37.150539Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P067,2025-06-15T20:19:37.150540Z,Home,7,Pass,B2,1,Away Leading,Failure,-0.05
+M7463-P067,2025-06-15T20:19:37.150554Z,Away,5,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P067,2025-06-15T20:19:37.150605Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P068,2025-06-15T20:19:37.150613Z,Home,9,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P068,2025-06-15T20:19:37.150615Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P068,2025-06-15T20:19:37.150616Z,Away,6,Dribble,C3,1,Away Leading,Failure,-0.03
+M7463-P068,2025-06-15T20:19:37.150618Z,Away,10,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P068,2025-06-15T20:19:37.150641Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P069,2025-06-15T20:19:37.150648Z,Away,6,BallRecovery,C3,0,Away Leading,Success,0.01
+M7463-P069,2025-06-15T20:19:37.150650Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P069,2025-06-15T20:19:37.150651Z,Home,9,Dribble,D1,1,Away Leading,Failure,-0.03
+M7463-P069,2025-06-15T20:19:37.150666Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P069,2025-06-15T20:19:37.150685Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150693Z,Home,7,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P070,2025-06-15T20:19:37.150694Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150696Z,Away,6,Pass,C3,1,Away Leading,Failure,-0.05
+M7463-P070,2025-06-15T20:19:37.150710Z,Away,4,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150740Z,Home,7,Pass,B2,1,Away Leading,Success,0.02
+M7463-P070,2025-06-15T20:19:37.150742Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150750Z,Away,5,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150780Z,Away,9,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150799Z,Home,3,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150807Z,Away,7,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150814Z,Away,2,SupportRequest,D5,0,Away Leading,Success,0.0
+M7463-P070,2025-06-15T20:19:37.150828Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P071,2025-06-15T20:19:37.150836Z,Away,8,BallRecovery,B2,0,Away Leading,Success,0.01
+M7463-P071,2025-06-15T20:19:37.150838Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P071,2025-06-15T20:19:37.150839Z,Home,9,Pass,B3,1,Away Leading,Failure,-0.05
+M7463-P071,2025-06-15T20:19:37.150858Z,Away,3,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P071,2025-06-15T20:19:37.150893Z,Away,8,Pass,B2,1,Away Leading,Success,0.02
+M7463-P071,2025-06-15T20:19:37.150901Z,Away,4,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P071,2025-06-15T20:19:37.150927Z,Away,3,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P071,2025-06-15T20:19:37.150937Z,Away,1,SupportRequest,B4,0,Away Leading,Success,0.0
+M7463-P071,2025-06-15T20:19:37.150958Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P072,2025-06-15T20:19:37.150966Z,Home,6,BallRecovery,C4,0,Away Leading,Success,0.01
+M7463-P072,2025-06-15T20:19:37.150967Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P072,2025-06-15T20:19:37.150969Z,Away,9,Pass,D2,1,Away Leading,Failure,-0.05
+M7463-P072,2025-06-15T20:19:37.150996Z,Away,3,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P072,2025-06-15T20:19:37.151023Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P073,2025-06-15T20:19:37.151033Z,Away,7,BallRecovery,D2,0,Away Leading,Success,0.01
+M7463-P073,2025-06-15T20:19:37.151035Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P073,2025-06-15T20:19:37.151036Z,Home,6,Pass,C4,1,Away Leading,Failure,-0.05
+M7463-P073,2025-06-15T20:19:37.151051Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P074,2025-06-15T20:19:37.151059Z,Home,7,BallRecovery,D2,0,Away Leading,Success,0.01
+M7463-P074,2025-06-15T20:19:37.151060Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P074,2025-06-15T20:19:37.151062Z,Away,7,Pass,D2,1,Away Leading,Failure,-0.05
+M7463-P074,2025-06-15T20:19:37.151077Z,Home,11,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P074,2025-06-15T20:19:37.151115Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P075,2025-06-15T20:19:37.151123Z,Away,6,BallRecovery,C3,0,Away Leading,Success,0.01
+M7463-P075,2025-06-15T20:19:37.151124Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P075,2025-06-15T20:19:37.151126Z,Home,7,Shot,D2,1,Away Leading,Failure,-0.125
+M7463-P075,2025-06-15T20:19:37.151134Z,Away,3,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P075,2025-06-15T20:19:37.151157Z,Away,6,Pass,C3,1,Away Leading,Success,0.02
+M7463-P075,2025-06-15T20:19:37.151183Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P076,2025-06-15T20:19:37.151191Z,Home,6,BallRecovery,D5,0,Away Leading,Success,0.01
+M7463-P076,2025-06-15T20:19:37.151192Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P076,2025-06-15T20:19:37.151193Z,Away,1,Clearance,C5,1,Away Leading,Success,0.0
+M7463-P076,2025-06-15T20:19:37.151208Z,Away,5,SupportRequest,A3,0,Away Leading,Success,0.0
+M7463-P076,2025-06-15T20:19:37.151218Z,Away,10,SupportRequest,D4,0,Away Leading,Success,0.0
+M7463-P076,2025-06-15T20:19:37.151238Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P077,2025-06-15T20:19:37.151245Z,Away,8,BallRecovery,B1,0,Away Leading,Success,0.01
+M7463-P077,2025-06-15T20:19:37.151247Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P077,2025-06-15T20:19:37.151248Z,Home,6,Pass,D5,1,Away Leading,Failure,-0.05
+M7463-P077,2025-06-15T20:19:37.151250Z,Home,5,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P077,2025-06-15T20:19:37.151266Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P078,2025-06-15T20:19:37.151273Z,Home,8,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P078,2025-06-15T20:19:37.151275Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P078,2025-06-15T20:19:37.151276Z,Away,8,Dribble,B1,1,Away Leading,Failure,-0.03
+M7463-P078,2025-06-15T20:19:37.151298Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P079,2025-06-15T20:19:37.151305Z,Away,6,BallRecovery,C3,0,Away Leading,Success,0.01
+M7463-P079,2025-06-15T20:19:37.151307Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P079,2025-06-15T20:19:37.151309Z,Home,8,Pass,C2,1,Away Leading,Failure,-0.05
+M7463-P079,2025-06-15T20:19:37.151328Z,Home,5,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P079,2025-06-15T20:19:37.151348Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P080,2025-06-15T20:19:37.151356Z,Home,8,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P080,2025-06-15T20:19:37.151357Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P080,2025-06-15T20:19:37.151359Z,Away,6,Dribble,C3,1,Away Leading,Failure,-0.03
+M7463-P080,2025-06-15T20:19:37.151361Z,Home,11,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P080,2025-06-15T20:19:37.151409Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P081,2025-06-15T20:19:37.151420Z,Away,8,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P081,2025-06-15T20:19:37.151422Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P081,2025-06-15T20:19:37.151424Z,Home,8,Shot,C2,1,Away Leading,Failure,-0.06
+M7463-P081,2025-06-15T20:19:37.151452Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151462Z,Home,6,BallRecovery,C4,0,Away Leading,Success,0.01
+M7463-P082,2025-06-15T20:19:37.151464Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151466Z,Away,8,Pass,C2,1,Away Leading,Failure,-0.05
+M7463-P082,2025-06-15T20:19:37.151487Z,Away,1,SupportRequest,C5,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151519Z,Home,6,Pass,C4,1,Away Leading,Success,0.02
+M7463-P082,2025-06-15T20:19:37.151546Z,Home,5,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151576Z,Home,9,Pass,C5,1,Away Leading,Success,0.02
+M7463-P082,2025-06-15T20:19:37.151584Z,Home,1,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151587Z,Away,1,SupportRequest,C5,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151588Z,Away,5,SupportRequest,A3,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151604Z,Away,6,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151606Z,Away,1,SupportRequest,C5,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151608Z,Home,1,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151623Z,Away,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-P082,2025-06-15T20:19:37.151631Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P083,2025-06-15T20:19:37.151639Z,Away,7,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P083,2025-06-15T20:19:37.151640Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P083,2025-06-15T20:19:37.151642Z,Home,4,Dribble,A5,1,Away Leading,Failure,-0.03
+M7463-P083,2025-06-15T20:19:37.151651Z,Home,7,SupportRequest,D3,0,Away Leading,Success,0.0
+M7463-P083,2025-06-15T20:19:37.151667Z,Away,7,Pass,D1,1,Away Leading,Success,0.02
+M7463-P083,2025-06-15T20:19:37.151699Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P084,2025-06-15T20:19:37.151706Z,Home,9,BallRecovery,B5,0,Away Leading,Success,0.01
+M7463-P084,2025-06-15T20:19:37.151707Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P084,2025-06-15T20:19:37.151709Z,Away,10,Dribble,D1,1,Away Leading,Failure,-0.03
+M7463-P084,2025-06-15T20:19:37.151735Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P085,2025-06-15T20:19:37.151742Z,Away,6,BallRecovery,D2,0,Away Leading,Success,0.01
+M7463-P085,2025-06-15T20:19:37.151744Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P085,2025-06-15T20:19:37.151747Z,Home,9,Pass,B5,1,Away Leading,Failure,-0.05
+M7463-P085,2025-06-15T20:19:37.151761Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P086,2025-06-15T20:19:37.151769Z,Home,9,BallRecovery,B5,0,Away Leading,Success,0.01
+M7463-P086,2025-06-15T20:19:37.151770Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P086,2025-06-15T20:19:37.151772Z,Away,6,Dribble,D2,1,Away Leading,Failure,-0.03
+M7463-P086,2025-06-15T20:19:37.151818Z,Home,9,Pass,B5,1,Away Leading,Success,0.02
+M7463-P086,2025-06-15T20:19:37.151875Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P087,2025-06-15T20:19:37.151883Z,Away,6,BallRecovery,D2,0,Away Leading,Success,0.01
+M7463-P087,2025-06-15T20:19:37.151884Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P087,2025-06-15T20:19:37.151885Z,Home,2,Dribble,B3,1,Away Leading,Failure,-0.03
+M7463-P087,2025-06-15T20:19:37.151911Z,Away,11,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P087,2025-06-15T20:19:37.151921Z,Home,8,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P087,2025-06-15T20:19:37.151923Z,Away,3,SupportRequest,D3,0,Away Leading,Success,0.0
+M7463-P087,2025-06-15T20:19:37.151943Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P088,2025-06-15T20:19:37.151951Z,Home,9,BallRecovery,B5,0,Away Leading,Success,0.01
+M7463-P088,2025-06-15T20:19:37.151952Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P088,2025-06-15T20:19:37.151954Z,Away,6,Dribble,D2,1,Away Leading,Failure,-0.03
+M7463-P088,2025-06-15T20:19:37.151975Z,Home,9,Pass,B5,1,Away Leading,Success,0.02
+M7463-P088,2025-06-15T20:19:37.152002Z,Home,7,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P088,2025-06-15T20:19:37.152010Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P089,2025-06-15T20:19:37.152018Z,Away,6,BallRecovery,C1,0,Away Leading,Success,0.01
+M7463-P089,2025-06-15T20:19:37.152019Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P089,2025-06-15T20:19:37.152021Z,Home,1,Dribble,D5,1,Away Leading,Failure,-0.03
+M7463-P089,2025-06-15T20:19:37.152035Z,Away,5,SupportRequest,A4,0,Away Leading,Success,0.0
+M7463-P089,2025-06-15T20:19:37.152038Z,Home,1,SupportRequest,D5,0,Away Leading,Success,0.0
+M7463-P089,2025-06-15T20:19:37.152063Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P090,2025-06-15T20:19:37.152071Z,Home,9,BallRecovery,B5,0,Away Leading,Success,0.01
+M7463-P090,2025-06-15T20:19:37.152072Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P090,2025-06-15T20:19:37.152074Z,Away,6,Dribble,C1,1,Away Leading,Failure,-0.03
+M7463-P090,2025-06-15T20:19:37.152095Z,Home,9,Pass,B5,1,Away Leading,Success,0.02
+M7463-P090,2025-06-15T20:19:37.152098Z,Home,2,SupportRequest,B3,0,Away Leading,Success,0.0
+M7463-P090,2025-06-15T20:19:37.152106Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P091,2025-06-15T20:19:37.152114Z,Away,6,BallRecovery,C1,0,Away Leading,Success,0.01
+M7463-P091,2025-06-15T20:19:37.152115Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P091,2025-06-15T20:19:37.152117Z,Home,11,Pass,C5,1,Away Leading,Failure,-0.05
+M7463-P091,2025-06-15T20:19:37.152119Z,Away,10,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P091,2025-06-15T20:19:37.152139Z,Away,1,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P091,2025-06-15T20:19:37.152147Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P092,2025-06-15T20:19:37.152155Z,Home,9,BallRecovery,B5,0,Away Leading,Success,0.01
+M7463-P092,2025-06-15T20:19:37.152156Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P092,2025-06-15T20:19:37.152158Z,Away,6,Pass,C1,1,Away Leading,Failure,-0.05
+M7463-P092,2025-06-15T20:19:37.152183Z,Away,7,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P092,2025-06-15T20:19:37.152209Z,Away,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-P092,2025-06-15T20:19:37.152224Z,Home,9,Dribble,C5,1,Away Leading,Success,0.03
+M7463-P092,2025-06-15T20:19:37.152263Z,Home,2,SupportRequest,D3,0,Away Leading,Success,0.0
+M7463-P092,2025-06-15T20:19:37.152287Z,Home,9,Pass,C5,1,Away Leading,Success,0.02
+M7463-P092,2025-06-15T20:19:37.152308Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P093,2025-06-15T20:19:37.152316Z,Away,6,BallRecovery,A1,0,Away Leading,Success,0.01
+M7463-P093,2025-06-15T20:19:37.152318Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P093,2025-06-15T20:19:37.152319Z,Home,1,Pass,D4,1,Away Leading,Failure,-0.05
+M7463-P093,2025-06-15T20:19:37.152340Z,Home,10,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P093,2025-06-15T20:19:37.152349Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P094,2025-06-15T20:19:37.152356Z,Home,9,BallRecovery,C3,0,Away Leading,Success,0.01
+M7463-P094,2025-06-15T20:19:37.152358Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P094,2025-06-15T20:19:37.152359Z,Away,6,Pass,A1,1,Away Leading,Failure,-0.05
+M7463-P094,2025-06-15T20:19:37.152403Z,Home,5,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P094,2025-06-15T20:19:37.152417Z,Away,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-P094,2025-06-15T20:19:37.152426Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P095,2025-06-15T20:19:37.152434Z,Away,8,BallRecovery,B1,0,Away Leading,Success,0.01
+M7463-P095,2025-06-15T20:19:37.152435Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P095,2025-06-15T20:19:37.152437Z,Home,9,Shot,C3,1,Away Leading,Failure,-0.09
+M7463-P095,2025-06-15T20:19:37.152465Z,Away,2,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P095,2025-06-15T20:19:37.152479Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P096,2025-06-15T20:19:37.152487Z,Home,7,BallRecovery,A2,0,Away Leading,Success,0.01
+M7463-P096,2025-06-15T20:19:37.152488Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P096,2025-06-15T20:19:37.152490Z,Away,8,Pass,B1,1,Away Leading,Failure,-0.05
+M7463-P096,2025-06-15T20:19:37.152523Z,Home,3,SupportRequest,B2,0,Away Leading,Success,0.0
+M7463-P096,2025-06-15T20:19:37.152526Z,Away,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-P096,2025-06-15T20:19:37.152534Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P097,2025-06-15T20:19:37.152542Z,Away,8,BallRecovery,B1,0,Away Leading,Success,0.01
+M7463-P097,2025-06-15T20:19:37.152543Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P097,2025-06-15T20:19:37.152545Z,Home,7,Pass,A2,1,Away Leading,Failure,-0.05
+M7463-GOAL03,2025-06-15T20:19:37.152574Z,Away,8,Goal,B1,0,Away Leading,Success,1.0
+M7463-P098,2025-06-15T20:19:37.152581Z,Home,6,BallRecovery,A5,0,Away Leading,Success,0.01
+M7463-P098,2025-06-15T20:19:37.152582Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P098,2025-06-15T20:19:37.152584Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P099,2025-06-15T20:19:37.152592Z,Away,8,BallRecovery,B1,0,Away Leading,Success,0.01
+M7463-P099,2025-06-15T20:19:37.152593Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P099,2025-06-15T20:19:37.152596Z,Away,8,Shot,B1,1,Away Leading,Success,0.08
+M7463-P099,2025-06-15T20:19:37.152611Z,Away,10,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P099,2025-06-15T20:19:37.152613Z,Home,2,SupportRequest,D4,0,Away Leading,Success,0.0
+M7463-P099,2025-06-15T20:19:37.152631Z,Away,8,Pass,B1,1,Away Leading,Success,0.02
+M7463-P099,2025-06-15T20:19:37.152645Z,Away,1,SupportRequest,B2,0,Away Leading,Success,0.0
+M7463-P099,2025-06-15T20:19:37.152653Z,Home,8,SupportRequest,D3,0,Away Leading,Success,0.0
+M7463-P099,2025-06-15T20:19:37.152680Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P100,2025-06-15T20:19:37.152688Z,Home,8,BallRecovery,D3,0,Away Leading,Success,0.01
+M7463-P100,2025-06-15T20:19:37.152689Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P100,2025-06-15T20:19:37.152691Z,Away,10,Pass,D1,1,Away Leading,Failure,-0.05
+M7463-P100,2025-06-15T20:19:37.152699Z,Home,6,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P100,2025-06-15T20:19:37.152738Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P101,2025-06-15T20:19:37.152745Z,Away,7,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P101,2025-06-15T20:19:37.152747Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P101,2025-06-15T20:19:37.152748Z,Home,8,Dribble,D3,1,Away Leading,Failure,-0.03
+M7463-P101,2025-06-15T20:19:37.152750Z,Away,9,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P101,2025-06-15T20:19:37.152758Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P102,2025-06-15T20:19:37.152765Z,Home,6,BallRecovery,A5,0,Away Leading,Success,0.01
+M7463-P102,2025-06-15T20:19:37.152767Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P102,2025-06-15T20:19:37.152768Z,Away,7,Pass,D1,1,Away Leading,Failure,-0.05
+M7463-P102,2025-06-15T20:19:37.152778Z,Away,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-P102,2025-06-15T20:19:37.152795Z,Home,6,Pass,A5,0,Away Leading,Success,0.02
+M7463-P102,2025-06-15T20:19:37.152809Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P103,2025-06-15T20:19:37.152817Z,Away,7,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P103,2025-06-15T20:19:37.152818Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P103,2025-06-15T20:19:37.152819Z,Home,11,Pass,A3,1,Away Leading,Failure,-0.05
+M7463-P103,2025-06-15T20:19:37.152827Z,Home,6,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P103,2025-06-15T20:19:37.152867Z,Away,7,Pass,D1,1,Away Leading,Success,0.02
+M7463-P103,2025-06-15T20:19:37.152869Z,Away,8,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P103,2025-06-15T20:19:37.152888Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P104,2025-06-15T20:19:37.152895Z,Home,6,BallRecovery,A5,0,Away Leading,Success,0.01
+M7463-P104,2025-06-15T20:19:37.152897Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P104,2025-06-15T20:19:37.152898Z,Away,3,Dribble,D1,1,Away Leading,Failure,-0.03
+M7463-P104,2025-06-15T20:19:37.152906Z,Home,5,SupportRequest,A3,0,Away Leading,Success,0.0
+M7463-P104,2025-06-15T20:19:37.152926Z,Home,1,SupportRequest,D3,0,Away Leading,Success,0.0
+M7463-P104,2025-06-15T20:19:37.152946Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P105,2025-06-15T20:19:37.152954Z,Away,8,BallRecovery,B1,0,Away Leading,Success,0.01
+M7463-P105,2025-06-15T20:19:37.152955Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P105,2025-06-15T20:19:37.152957Z,Home,6,Pass,A5,0,Away Leading,Failure,-0.05
+M7463-P105,2025-06-15T20:19:37.152972Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P106,2025-06-15T20:19:37.152980Z,Home,9,BallRecovery,C1,0,Away Leading,Success,0.01
+M7463-P106,2025-06-15T20:19:37.152981Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P106,2025-06-15T20:19:37.152983Z,Away,8,Shot,B1,1,Away Leading,Failure,-0.04
+M7463-P106,2025-06-15T20:19:37.152991Z,Home,7,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P106,2025-06-15T20:19:37.153004Z,Away,2,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P106,2025-06-15T20:19:37.153013Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P107,2025-06-15T20:19:37.153021Z,Away,7,BallRecovery,C2,0,Away Leading,Success,0.01
+M7463-P107,2025-06-15T20:19:37.153022Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P107,2025-06-15T20:19:37.153024Z,Home,9,Pass,C1,1,Away Leading,Failure,-0.05
+M7463-P107,2025-06-15T20:19:37.153032Z,Away,9,SupportRequest,B3,0,Away Leading,Success,0.0
+M7463-P107,2025-06-15T20:19:37.153045Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153053Z,Home,6,BallRecovery,A5,0,Away Leading,Success,0.01
+M7463-P108,2025-06-15T20:19:37.153054Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153056Z,Away,7,Dribble,C2,1,Away Leading,Failure,-0.03
+M7463-P108,2025-06-15T20:19:37.153058Z,Home,11,SupportRequest,B4,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153060Z,Away,8,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153086Z,Away,2,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153094Z,Away,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153097Z,Away,6,SupportRequest,A2,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153112Z,Home,6,Pass,A5,0,Away Leading,Success,0.02
+M7463-P108,2025-06-15T20:19:37.153114Z,Away,10,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153122Z,Away,8,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153125Z,Home,10,SupportRequest,C5,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153133Z,Home,8,SupportRequest,B1,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153155Z,Home,7,Pass,A3,1,Away Leading,Success,0.02
+M7463-P108,2025-06-15T20:19:37.153180Z,Away,1,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153196Z,Home,9,Pass,A1,1,Away Leading,Success,0.02
+M7463-P108,2025-06-15T20:19:37.153216Z,Away,7,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153224Z,Home,7,SupportRequest,A3,0,Away Leading,Success,0.0
+M7463-P108,2025-06-15T20:19:37.153233Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153241Z,Away,7,BallRecovery,D1,0,Away Leading,Success,0.01
+M7463-P109,2025-06-15T20:19:37.153242Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153244Z,Home,8,Dribble,A1,1,Away Leading,Failure,-0.03
+M7463-P109,2025-06-15T20:19:37.153246Z,Home,11,SupportRequest,B3,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153290Z,Away,7,Pass,D1,1,Away Leading,Success,0.02
+M7463-P109,2025-06-15T20:19:37.153300Z,Away,2,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153302Z,Home,8,SupportRequest,A1,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153328Z,Home,6,SupportRequest,A5,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153349Z,Away,3,SupportRequest,C2,0,Away Leading,Success,0.0
+M7463-P109,2025-06-15T20:19:37.153357Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P110,2025-06-15T20:19:37.153365Z,Home,9,BallRecovery,A1,0,Away Leading,Success,0.01
+M7463-P110,2025-06-15T20:19:37.153366Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P110,2025-06-15T20:19:37.153368Z,Away,8,Dribble,D3,1,Away Leading,Failure,-0.03
+M7463-P110,2025-06-15T20:19:37.153382Z,Away,10,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P110,2025-06-15T20:19:37.153398Z,Home,9,Pass,A1,1,Away Leading,Success,0.02
+M7463-P110,2025-06-15T20:19:37.153400Z,Away,5,SupportRequest,D1,0,Away Leading,Success,0.0
+M7463-P110,2025-06-15T20:19:37.153407Z,Home,4,SupportRequest,C4,0,Away Leading,Success,0.0
+M7463-GOAL04,2025-06-15T20:19:37.153433Z,Home,9,Goal,A1,0,Away Leading,Success,1.0
+M7463-P111,2025-06-15T20:19:37.153440Z,Away,6,BallRecovery,A2,0,Away Leading,Success,0.01
+M7463-P111,2025-06-15T20:19:37.153442Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P111,2025-06-15T20:19:37.153443Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P112,2025-06-15T20:19:37.153451Z,Home,8,BallRecovery,A2,0,Away Leading,Success,0.01
+M7463-P112,2025-06-15T20:19:37.153452Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P112,2025-06-15T20:19:37.153454Z,Home,10,Shot,C1,1,Away Leading,Success,0.08
+M7463-P112,2025-06-15T20:19:37.153524Z,Home,8,Pass,A2,1,Away Leading,Success,0.02
+M7463-P112,2025-06-15T20:19:37.153546Z,Home,11,Pass,A4,1,Away Leading,Success,0.02
+M7463-P112,2025-06-15T20:19:37.153561Z,Home,2,SupportRequest,B5,0,Away Leading,Success,0.0
+M7463-P112,2025-06-15T20:19:37.153564Z,Away,1,SupportRequest,C3,0,Away Leading,Success,0.0
+M7463-P112,2025-06-15T20:19:37.153566Z,Home,1,SupportRequest,B4,0,Away Leading,Success,0.0
+M7463-P112,2025-06-15T20:19:37.153574Z,Home,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153582Z,Away,6,BallRecovery,A2,0,Away Leading,Success,0.01
+M7463-P113,2025-06-15T20:19:37.153583Z,Away,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153585Z,Home,8,Pass,B5,1,Away Leading,Failure,-0.05
+M7463-P113,2025-06-15T20:19:37.153587Z,Home,11,SupportRequest,A4,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153588Z,Away,9,SupportRequest,C2,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153609Z,Away,11,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153611Z,Home,4,SupportRequest,A4,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153613Z,Home,10,SupportRequest,C1,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153615Z,Away,5,SupportRequest,D2,0,Away Leading,Success,0.0
+M7463-P113,2025-06-15T20:19:37.153626Z,Away,0,PossessionEnd,C3,0,Away Leading,Success,0.0
+M7463-P114,2025-06-15T20:19:37.153634Z,Home,6,BallRecovery,A3,0,Away Leading,Success,0.01
+M7463-P114,2025-06-15T20:19:37.153635Z,Home,0,PossessionStart,C3,0,Away Leading,Success,0.0
+M7463-P114,2025-06-15T20:19:37.153637Z,Away,6,Shot,A2,1,Away Leading,Failure,-0.125
